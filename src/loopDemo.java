@@ -19,7 +19,7 @@ public class loopDemo {
 // Do-While
 		int j = 1;
 		do {
-			
+
 			System.out.println(j);
 			j += 2;
 
@@ -27,8 +27,6 @@ public class loopDemo {
 		System.out.println("Do-While Döngüsü Bitti");
 
 // do-while da şart uymasa bile çalışır
-		
-		
 
 	}
 
